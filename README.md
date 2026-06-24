@@ -6,6 +6,7 @@ dsa solutions for leetcode and other platforms
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0704-binary-search) |
@@ -22,4 +23,8 @@ dsa solutions for leetcode and other platforms
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
