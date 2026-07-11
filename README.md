@@ -7,12 +7,14 @@ dsa solutions for leetcode and other platforms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0053-maximum-subarray) |
 | [0704-binary-search](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/pulkitgandhi02/dsa-solutions/tree/master/0704-binary-search) |
 ## Divide and Conquer
